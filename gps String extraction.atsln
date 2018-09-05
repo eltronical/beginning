@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "gps String extraction", "gps String extraction\gps String extraction.cproj", "{38A05513-A140-4CDC-BF9B-E88447235C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A05513-A140-4CDC-BF9B-E88447235C8C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{38A05513-A140-4CDC-BF9B-E88447235C8C}.Debug|AVR.Build.0 = Debug|AVR
+		{38A05513-A140-4CDC-BF9B-E88447235C8C}.Release|AVR.ActiveCfg = Release|AVR
+		{38A05513-A140-4CDC-BF9B-E88447235C8C}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
